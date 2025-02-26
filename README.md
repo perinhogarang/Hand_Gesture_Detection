@@ -1,5 +1,4 @@
-# Hand_Gesture_Detection
-# by Eng. Perinho Garang
+# Hand_Gesture_Detection by Eng. Peirnho Garang
 
 Hand Gesture Recognition with OpenCV – Odd or Even Number Detection
 🚀 Welcome to my Hand Gesture Recognition project! 🤖
